@@ -14,7 +14,7 @@ The differences are outlined below.
 
 Our historical branches have other names:
 
-- **master** is called **stable*
+- **master** is called **stable**
 - **release** is called **testing**
 - **development** is called **master**
 
